@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 const fs = require('fs');
-var path = require('path');
+// var path = require('path');
 
 // write your code below
 
